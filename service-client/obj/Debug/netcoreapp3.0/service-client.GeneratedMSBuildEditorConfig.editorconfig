@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = service_client
+build_property.ProjectDir = D:\csharp-lab\service-client\service-client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

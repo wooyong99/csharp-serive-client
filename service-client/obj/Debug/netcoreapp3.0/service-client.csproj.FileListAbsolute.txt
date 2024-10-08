@@ -1,0 +1,4 @@
+D:\csharp-lab\service-client\service-client\obj\Debug\netcoreapp3.0\service-client.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-lab\service-client\service-client\obj\Debug\netcoreapp3.0\service-client.AssemblyInfoInputs.cache
+D:\csharp-lab\service-client\service-client\obj\Debug\netcoreapp3.0\service-client.AssemblyInfo.cs
+D:\csharp-lab\service-client\service-client\obj\Debug\netcoreapp3.0\service-client.csproj.CoreCompileInputs.cache

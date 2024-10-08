@@ -1,0 +1,11 @@
+D:\csharp-lab\service-client\service-client\bin\Debug\net6.0\service-client.deps.json
+D:\csharp-lab\service-client\service-client\bin\Debug\net6.0\service-client.dll
+D:\csharp-lab\service-client\service-client\bin\Debug\net6.0\service-client.pdb
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.AssemblyInfoInputs.cache
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.AssemblyInfo.cs
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.csproj.CoreCompileInputs.cache
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.dll
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\refint\service-client.dll
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.pdb
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\ref\service-client.dll
