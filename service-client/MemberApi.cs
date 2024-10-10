@@ -2,6 +2,7 @@
 using System;
 using System.Net;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -140,6 +141,5 @@ namespace service_client
                 PropertyNamingPolicy = JsonNamingPolicy.CamelCase, // CamelCase로 속성 이름 변환 옵션
             });
         }
-
     }
 }

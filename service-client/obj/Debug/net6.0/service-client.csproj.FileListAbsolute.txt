@@ -9,3 +9,4 @@ D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.dll
 D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\refint\service-client.dll
 D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.pdb
 D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\ref\service-client.dll
+D:\csharp-lab\service-client\service-client\obj\Debug\net6.0\service-client.sourcelink.json
